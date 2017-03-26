@@ -1,3 +1,4 @@
 # yutokyokutyo
-info
+
+https://yutokyokutyo.herokuapp.com/
 
